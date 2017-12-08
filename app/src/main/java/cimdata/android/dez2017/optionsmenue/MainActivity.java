@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
         switch (id){
             case  R.id.main_menu_item_01:
-                Toast.makeText(this, "Item 1 funktioniert",Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Item 1 funktioniert sdfs",Toast.LENGTH_SHORT).show();
                 break;
             case  R.id.main_menu_item_02:
                 Toast.makeText(this, "Item 2 funktioniert",Toast.LENGTH_SHORT).show();
